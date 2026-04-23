@@ -1,6 +1,6 @@
 # Intelligence Query Engine
 
-Queryable Intelligence Engine for demographic profile data built with Node.js, Express, TypeScript, Mongoose, and MongoDB.
+Queryable Intelligence Engine for demographic profile data built with Node.js, Express, Mongoose, and MongoDB.
 
 ## What this API does
 
@@ -17,7 +17,6 @@ It is designed for clients that need to:
 
 - Node.js
 - Express
-- TypeScript
 - MongoDB
 - Mongoose
 - CORS
